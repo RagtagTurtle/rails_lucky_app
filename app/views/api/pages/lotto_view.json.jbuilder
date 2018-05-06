@@ -1,0 +1,1 @@
+json.lotto_numbers @magic_numbers

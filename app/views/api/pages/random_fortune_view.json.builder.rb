@@ -1,0 +1,1 @@
+json.random_fortune_1 @random_fortune_1

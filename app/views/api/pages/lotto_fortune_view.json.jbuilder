@@ -1,0 +1,1 @@
+json.lotto_winners @random_lotto

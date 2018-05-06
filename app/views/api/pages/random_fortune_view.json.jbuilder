@@ -1,0 +1,1 @@
+json.madam_zeroni_says @random_fortune
